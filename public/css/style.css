@@ -1,0 +1,29 @@
+body {
+    margin-bottom: 70px;
+}
+
+.table-nav {
+    display: block;
+    float: left;
+    clear: both;
+    width: 100%;
+}
+.count-data,
+.paging {
+    width: 50%;
+    height: 50px;
+    display: block;
+}
+.count-data {
+    float: left;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.paging {
+    float: right;
+    text-align: right;
+}
+
+.height{
+    height: 600px;
+}
